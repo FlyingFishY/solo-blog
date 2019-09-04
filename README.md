@@ -10,7 +10,7 @@ FlyingFishY 的个人博客
 
 ### 最新
 
-* [世界，你好！](http://huiyv.top/hello-solo)
+* [世界，你好！](https://huiyv.top/hello-solo)
 
 
 

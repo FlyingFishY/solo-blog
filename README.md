@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://huiyv.top/my-github-repos)
 * [世界，你好！](https://huiyv.top/hello-solo)
 
 

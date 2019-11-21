@@ -3,10 +3,10 @@
 </h2>
 
 <h4 align="center">记录精彩的程序人生</h4>
-<p align="center"><a title="欢迎来到灰鱼的世界" target="_blank" href="https://github.com/FlyingFishY/solo-blog"><img src="https://img.shields.io/github/last-commit/FlyingFishY/solo-blog.svg?style=flat-square&color=FF9900"></a>
-<a title="GitHub repo size in bytes" target="_blank" href="https://github.com/FlyingFishY/solo-blog"><img src="https://img.shields.io/github/repo-size/FlyingFishY/solo-blog.svg?style=flat-square"></a>
+<p align="center"><a title="欢迎来到灰鱼的世界" target="_blank" href="https://github.com/huiyuhao/solo-blog"><img src="https://img.shields.io/github/last-commit/huiyuhao/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<a title="GitHub repo size in bytes" target="_blank" href="https://github.com/huiyuhao/solo-blog"><img src="https://img.shields.io/github/repo-size/huiyuhao/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.4-f1e05a.svg?style=flat-square&color=blueviolet"></a>
-<a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/FlyingFishY/solo-blog.svg"></a></p>
+<a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/huiyuhao/solo-blog.svg"></a></p>
 
 ### 最新
 
